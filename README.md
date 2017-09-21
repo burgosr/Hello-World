@@ -1,4 +1,3 @@
 # Hello-World
-Self teaching coding
-I love Tacos. Just an fyi 
-I also am trying to better understand coding and the world of developers. 
+
+I am trying to hone my skills as a Project Manager to better help my team work together. 
